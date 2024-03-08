@@ -15,4 +15,4 @@ Red vs Blue is a great little game for teaching cyber security and business mana
 
 Red vs Blue was developed for the University West of England, Cyber West Events.
 
-Recommended Card Size: 82. com x 14 cm.
+Recommended Card Size: 8.5 cm x 14 cm.
