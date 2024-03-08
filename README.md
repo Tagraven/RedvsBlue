@@ -14,3 +14,5 @@ In Two-Player mode, the Blue Team is pitted against a live adversary and must de
 Red vs Blue is a great little game for teaching cyber security and business management skills, and can be easily modded for any level of technical understanding. Though originally designed for Key Stage 4/5 students in the UK, it is easily modded for Higher Education or the Corporate Sector.
 
 Red vs Blue was developed for the University West of England, Cyber West Events.
+
+Recommended Card Size: 82. com x 14 cm.
